@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c1b2ebb6-566e-43c3-a2a1-da66957f03cd" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="ProjectId" id="1YzjibtArRbjht0GTAtLrD8cUc8" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DBE.Init.BalloonShown" value="true" />
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="root:@localhost" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="root:@localhost" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="com.intellij.database.console.session.MessageBusSession@5e2eb951" type="9fbbdea:ServiceModel$ServiceNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="250" y="80" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583952543324">
+      <screen x="0" y="23" width="1280" height="726" />
+    </state>
+    <state x="250" y="80" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1280.726@0.23.1280.726" timestamp="1583952543324" />
+    <state width="832" height="167" key="GridCell.Tab.0.bottom" timestamp="1583954176443">
+      <screen x="0" y="23" width="1280" height="727" />
+    </state>
+    <state width="832" height="167" key="GridCell.Tab.0.bottom/0.23.1280.727@0.23.1280.727" timestamp="1583954176443" />
+    <state width="832" height="167" key="GridCell.Tab.0.center" timestamp="1583954176443">
+      <screen x="0" y="23" width="1280" height="727" />
+    </state>
+    <state width="832" height="167" key="GridCell.Tab.0.center/0.23.1280.727@0.23.1280.727" timestamp="1583954176443" />
+    <state width="832" height="167" key="GridCell.Tab.0.left" timestamp="1583954176442">
+      <screen x="0" y="23" width="1280" height="727" />
+    </state>
+    <state width="832" height="167" key="GridCell.Tab.0.left/0.23.1280.727@0.23.1280.727" timestamp="1583954176442" />
+    <state width="832" height="167" key="GridCell.Tab.0.right" timestamp="1583954176443">
+      <screen x="0" y="23" width="1280" height="727" />
+    </state>
+    <state width="832" height="167" key="GridCell.Tab.0.right/0.23.1280.727@0.23.1280.727" timestamp="1583954176443" />
+    <state x="315" y="74" width="670" height="676" key="search.everywhere.popup" timestamp="1583952976710">
+      <screen x="0" y="23" width="1280" height="727" />
+    </state>
+    <state x="315" y="74" width="670" height="676" key="search.everywhere.popup/0.23.1280.727@0.23.1280.727" timestamp="1583952976710" />
+  </component>
+</project>
