@@ -18,7 +18,23 @@
     <option name="HIDDEN_KINDS">
       <set />
     </option>
-    <expand />
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="myNewBD: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+    </expand>
     <select />
   </component>
   <component name="ProjectId" id="1YzjibtArRbjht0GTAtLrD8cUc8" />
@@ -37,6 +53,7 @@
     <option name="viewStates">
       <list>
         <serviceView>
+          <option name="contentProportion" value="0.23885618" />
           <treeState>
             <expand>
               <path>
@@ -60,22 +77,46 @@
       <screen x="0" y="23" width="1280" height="726" />
     </state>
     <state x="250" y="80" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1280.726@0.23.1280.726" timestamp="1583952543324" />
-    <state width="832" height="167" key="GridCell.Tab.0.bottom" timestamp="1583954176443">
-      <screen x="0" y="23" width="1280" height="727" />
+    <state width="985" height="229" key="GridCell.Tab.0.bottom" timestamp="1584413898307">
+      <screen x="1280" y="0" width="1366" height="768" />
     </state>
+    <state width="985" height="229" key="GridCell.Tab.0.bottom/0.0.1280.800/1280.0.1366.768@1280.0.1366.768" timestamp="1584413898307" />
     <state width="832" height="167" key="GridCell.Tab.0.bottom/0.23.1280.727@0.23.1280.727" timestamp="1583954176443" />
-    <state width="832" height="167" key="GridCell.Tab.0.center" timestamp="1583954176443">
-      <screen x="0" y="23" width="1280" height="727" />
+    <state width="904" height="236" key="GridCell.Tab.0.bottom/0.23.1280.728@0.23.1280.728" timestamp="1583956342235" />
+    <state width="904" height="236" key="GridCell.Tab.0.bottom/0.23.1280.729/1280.23.1366.745@0.23.1280.729" timestamp="1584408347546" />
+    <state width="904" height="229" key="GridCell.Tab.0.bottom/0.23.1280.732/1280.23.1366.745@1280.23.1366.745" timestamp="1584412636679" />
+    <state width="904" height="229" key="GridCell.Tab.0.bottom/0.23.1280.777/1280.23.1366.698@1280.23.1366.698" timestamp="1584413277923" />
+    <state width="985" height="229" key="GridCell.Tab.0.center" timestamp="1584413898305">
+      <screen x="1280" y="0" width="1366" height="768" />
     </state>
+    <state width="985" height="229" key="GridCell.Tab.0.center/0.0.1280.800/1280.0.1366.768@1280.0.1366.768" timestamp="1584413898305" />
     <state width="832" height="167" key="GridCell.Tab.0.center/0.23.1280.727@0.23.1280.727" timestamp="1583954176443" />
-    <state width="832" height="167" key="GridCell.Tab.0.left" timestamp="1583954176442">
-      <screen x="0" y="23" width="1280" height="727" />
+    <state width="904" height="236" key="GridCell.Tab.0.center/0.23.1280.728@0.23.1280.728" timestamp="1583956342234" />
+    <state width="904" height="236" key="GridCell.Tab.0.center/0.23.1280.729/1280.23.1366.745@0.23.1280.729" timestamp="1584408347544" />
+    <state width="904" height="229" key="GridCell.Tab.0.center/0.23.1280.732/1280.23.1366.745@1280.23.1366.745" timestamp="1584412636678" />
+    <state width="904" height="229" key="GridCell.Tab.0.center/0.23.1280.777/1280.23.1366.698@1280.23.1366.698" timestamp="1584413277922" />
+    <state width="985" height="229" key="GridCell.Tab.0.left" timestamp="1584413898304">
+      <screen x="1280" y="0" width="1366" height="768" />
     </state>
+    <state width="985" height="229" key="GridCell.Tab.0.left/0.0.1280.800/1280.0.1366.768@1280.0.1366.768" timestamp="1584413898304" />
     <state width="832" height="167" key="GridCell.Tab.0.left/0.23.1280.727@0.23.1280.727" timestamp="1583954176442" />
-    <state width="832" height="167" key="GridCell.Tab.0.right" timestamp="1583954176443">
-      <screen x="0" y="23" width="1280" height="727" />
+    <state width="904" height="236" key="GridCell.Tab.0.left/0.23.1280.728@0.23.1280.728" timestamp="1583956342233" />
+    <state width="904" height="236" key="GridCell.Tab.0.left/0.23.1280.729/1280.23.1366.745@0.23.1280.729" timestamp="1584408347543" />
+    <state width="904" height="229" key="GridCell.Tab.0.left/0.23.1280.732/1280.23.1366.745@1280.23.1366.745" timestamp="1584412636677" />
+    <state width="904" height="229" key="GridCell.Tab.0.left/0.23.1280.777/1280.23.1366.698@1280.23.1366.698" timestamp="1584413277918" />
+    <state width="985" height="229" key="GridCell.Tab.0.right" timestamp="1584413898306">
+      <screen x="1280" y="0" width="1366" height="768" />
     </state>
+    <state width="985" height="229" key="GridCell.Tab.0.right/0.0.1280.800/1280.0.1366.768@1280.0.1366.768" timestamp="1584413898306" />
     <state width="832" height="167" key="GridCell.Tab.0.right/0.23.1280.727@0.23.1280.727" timestamp="1583954176443" />
+    <state width="904" height="236" key="GridCell.Tab.0.right/0.23.1280.728@0.23.1280.728" timestamp="1583956342234" />
+    <state width="904" height="236" key="GridCell.Tab.0.right/0.23.1280.729/1280.23.1366.745@0.23.1280.729" timestamp="1584408347545" />
+    <state width="904" height="229" key="GridCell.Tab.0.right/0.23.1280.732/1280.23.1366.745@1280.23.1366.745" timestamp="1584412636679" />
+    <state width="904" height="229" key="GridCell.Tab.0.right/0.23.1280.777/1280.23.1366.698@1280.23.1366.698" timestamp="1584413277923" />
+    <state x="1681" y="77" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog" timestamp="1584413544181">
+      <screen x="1280" y="23" width="1366" height="698" />
+    </state>
+    <state x="1681" y="77" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog/0.23.1280.777/1280.23.1366.698@1280.23.1366.698" timestamp="1584413544181" />
     <state x="315" y="74" width="670" height="676" key="search.everywhere.popup" timestamp="1583952976710">
       <screen x="0" y="23" width="1280" height="727" />
     </state>

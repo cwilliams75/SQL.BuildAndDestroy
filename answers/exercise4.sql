@@ -1,0 +1,2 @@
+SHOW TABLES;
+DROP TABLE Users;

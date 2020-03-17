@@ -1,0 +1,9 @@
+SHOW DATABASES;
+USE myNewBD;
+
+
+SHOW TABLES;
+SELECT * FROM Users;
+
+ALTER TABLE Users
+ADD birthday VARCHAR(255);
